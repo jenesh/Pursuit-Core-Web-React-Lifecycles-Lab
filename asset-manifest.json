@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/css/main.3fcd11d6.chunk.css",
+    "main.js": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/js/main.65979700.chunk.js",
+    "main.js.map": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/js/main.65979700.chunk.js.map",
+    "runtime-main.js": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/js/runtime-main.cdb2dd67.js",
+    "runtime-main.js.map": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/js/runtime-main.cdb2dd67.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.21c85374.chunk.js": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/js/2.21c85374.chunk.js",
+    "static/js/2.21c85374.chunk.js.map": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/js/2.21c85374.chunk.js.map",
+    "index.html": "/Pursuit-Core-Web-React-Lifecycles-Lab/index.html",
+    "precache-manifest.fd757c6095ab95c5f4d1c4b62848c3c3.js": "/Pursuit-Core-Web-React-Lifecycles-Lab/precache-manifest.fd757c6095ab95c5f4d1c4b62848c3c3.js",
+    "service-worker.js": "/Pursuit-Core-Web-React-Lifecycles-Lab/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/css/2.5dbdccff.chunk.css.map",
+    "static/css/main.3fcd11d6.chunk.css.map": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/css/main.3fcd11d6.chunk.css.map",
+    "static/js/2.21c85374.chunk.js.LICENSE": "/Pursuit-Core-Web-React-Lifecycles-Lab/static/js/2.21c85374.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdb2dd67.js",
+    "static/css/2.5dbdccff.chunk.css",
+    "static/js/2.21c85374.chunk.js",
+    "static/css/main.3fcd11d6.chunk.css",
+    "static/js/main.65979700.chunk.js"
+  ]
+}
