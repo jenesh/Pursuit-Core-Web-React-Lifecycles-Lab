@@ -30,6 +30,7 @@ class App extends React.Component {
 		const todos = this.state.todos.map(todo => {
 			if (todo.id === id) {
 				todo.completed = !todo.completed;
+				todo.completed ? toast('Completed: ' + todo.task) : toast('Not Completed: ' + todo.task);
 				return todo;
 			} else {
 				return todo;
